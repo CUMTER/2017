@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
         TestSurfaceView ts = new TestSurfaceView(this);
         setContentView(ts);
+//
     }
 }
